@@ -23,3 +23,11 @@
 ## Debugging
 - criar um launch.json para configurar como rodar o debuger
 - Criar breakpoints condicionais para loops (ex: i=35)
+
+## Documentaion and Releasing code
+- __version__ = "3.0.0"
+- __init__.py roda tudo como a função __init__ de uma classe
+- Manter github and pypi sincronizados
+- Zenodo, permite citar codigo
+- JOSS para open source software, focado para revisar seu código
+
