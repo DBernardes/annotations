@@ -31,3 +31,13 @@
 - Zenodo, permite citar codigo
 - JOSS para open source software, focado para revisar seu código
 
+## Code profiling
+- cProfile indica a quantidade de tempo que minhas funções precisam para executar.
+Chama a função 1000 vezes e passa o número de cores a serem usados.
+Igual as estatísticas do Labview.
+Ajuda a descobrir qual função speed up
+
+### Como speed up
+- use numpy sempre que possível
+- evitar for e while loops
+- codar em C e chamar em python
