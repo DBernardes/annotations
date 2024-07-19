@@ -41,3 +41,18 @@ Ajuda a descobrir qual função speed up
 - use numpy sempre que possível
 - evitar for e while loops
 - codar em C e chamar em python
+
+
+## Interview
+- Maiorias das contratações são via networking
+- Nasa tem diversos projetos instrumentais acontecendo
+- Devo preparar meu CV com as keywords que o recutrador está procurando.
+Ele recebe diversos de CVs todos os dias, logo, ele procura pelas keywords certas
+As keywords são minhas habilidades. Isto deve aparecer na descrição de cada experiência.
+Estruturar como atividade -> resultado.
+- Na indústria é visto como um mindset ruim ter um PhD.
+- Entender AWS?
+- O mindset da industria está voltava para cumprir schedules rapida e eficientemente
+- Foi uma experiência muito intensa para a Sarah. Eles se preocupavam com cada linha de código e cobravam isso.
+Ela passou algumas semanas sem fazer um commit na main por isso.
+- Essa pessoa vai nos fazer dinheiro? Precisa ter uma venda própria de suas capacidades.
