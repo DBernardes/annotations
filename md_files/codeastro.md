@@ -56,3 +56,7 @@ Estruturar como atividade -> resultado.
 - Foi uma experiência muito intensa para a Sarah. Eles se preocupavam com cada linha de código e cobravam isso.
 Ela passou algumas semanas sem fazer um commit na main por isso.
 - Essa pessoa vai nos fazer dinheiro? Precisa ter uma venda própria de suas capacidades.
+
+
+## Add data in my package
+- [mylink](https://sixty-north.com/blog/including-package-data-in-python-packages.html)
