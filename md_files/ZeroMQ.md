@@ -71,7 +71,7 @@
 #### Native Pattern
 - The native pattern is used for communicating with TCP peers and allows asynchronous requests and replies in either direction.
 
-### Request-reply pattern
+#### Request-reply pattern
 - The request-reply pattern is used for sending requests from a ZMQ_REQ client to one or more ZMQ_REP services, and receiving subsequent replies to each request sent.
 - ZMQ_REQ
     - A socket of type 'ZMQ_REQ' is used by a client to send requests to and receive replies from a service. This socket type allows only an alternating sequence of zmq_send(request) and subsequent zmq_recv(reply) calls. Each request sent is round-robined among all services, and each reply received is matched with the last issued request.
@@ -86,4 +86,3 @@
 - ZMQ_ROUTER
     - A socket of type 'ZMQ_ROUTER' is an advanced socket type used for extending request/reply sockets. When receiving messages a 'ZMQ_ROUTER' socket shall prepend a message part containing the routing id of the originating peer to the message before passing it to the application. 
     - When sending messages a 'ZMQ_ROUTER' socket shall remove the first part of the message and use it to determine the _routing id _ of the peer the message shall be routed to. If the peer does not exist anymore, or has never existed, the message shall be silently discarded. 
-    
