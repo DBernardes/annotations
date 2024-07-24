@@ -6,7 +6,7 @@
 
 [Github](https://github.com/imatix/zguide)
 
-[amq_socket](https://libzmq.readthedocs.io/en/latest/zmq_socket.html)
+[zmq_socket](https://libzmq.readthedocs.io/en/latest/zmq_socket.html)
 
 
 ## Chap 1
@@ -53,3 +53,37 @@
 #### Radio-dish pattern
 - The radio-dish pattern is used for one-to-many distribution of data from a single publisher to multiple subscribers in a fan out fashion.
 - Radio-dish is using groups (vs Pub-sub topics), Dish sockets can join a group and each message sent by Radio sockets belong to a group.
+
+#### Publish-subscribe pattern
+- The publish-subscribe pattern is used for one-to-many distribution of data from a single publisher to multiple subscribers in a fan out fashion.
+
+#### Pipeline pattern
+- The pipeline pattern is used for distributing data to nodes arranged in a pipeline. Data always flows down the pipeline, and each stage of the pipeline is connected to at least one node. When a pipeline stage is connected to multiple nodes data is round-robined among all connected nodes.
+- ZMQ_PUSH
+    - A socket of type 'ZMQ_PUSH' is used by a pipeline node to send messages to downstream pipeline nodes. Messages are round-robined to all connected downstream nodes. The zmq_recv() function is not implemented for this socket type.
+    - Unidirectional
+- ZMQ_PULL
+    - A socket of type 'ZMQ_PULL' is used by a pipeline node to receive messages from upstream pipeline nodes. Messages are fair-queued from among all connected upstream nodes. The zmq_send() function is not implemented for this socket type.
+
+#### Exclusive pair pattern
+- The exclusive pair pattern is used to connect a peer to precisely one other peer. This pattern is used for inter-thread communication across the inproc transport.
+
+#### Native Pattern
+- The native pattern is used for communicating with TCP peers and allows asynchronous requests and replies in either direction.
+
+### Request-reply pattern
+- The request-reply pattern is used for sending requests from a ZMQ_REQ client to one or more ZMQ_REP services, and receiving subsequent replies to each request sent.
+- ZMQ_REQ
+    - A socket of type 'ZMQ_REQ' is used by a client to send requests to and receive replies from a service. This socket type allows only an alternating sequence of zmq_send(request) and subsequent zmq_recv(reply) calls. Each request sent is round-robined among all services, and each reply received is matched with the last issued request.
+    - The REQ socket shall not discard messages.
+- ZMQ_REP
+    - If the original requester does not exist any more the reply is silently discarded.
+    - Acho que garante o recebimento
+- ZMQ_DEALER
+    - A socket of type 'ZMQ_DEALER' is an advanced pattern used for extending request/reply sockets. Each message sent is round-robined among all connected peers, and each message received is fair-queued from all connected peers.
+    - Compatible peer sockets:'ZMQ_ROUTER', 'ZMQ_REP', 'ZMQ_DEALER'
+    - Send/receive pattern: Unrestricted
+- ZMQ_ROUTER
+    - A socket of type 'ZMQ_ROUTER' is an advanced socket type used for extending request/reply sockets. When receiving messages a 'ZMQ_ROUTER' socket shall prepend a message part containing the routing id of the originating peer to the message before passing it to the application. 
+    - When sending messages a 'ZMQ_ROUTER' socket shall remove the first part of the message and use it to determine the _routing id _ of the peer the message shall be routed to. If the peer does not exist anymore, or has never existed, the message shall be silently discarded. 
+    
