@@ -1,7 +1,12 @@
 # Zero MQ
 
+## Useful links
+
 [Docs](https://zguide.zeromq.org/docs/chapter1/)
+
 [Github](https://github.com/imatix/zguide)
+
+[amq_socket](https://libzmq.readthedocs.io/en/latest/zmq_socket.html)
 
 
 ## Chap 1
@@ -24,4 +29,27 @@
 - with ZeroMQ you define your network architecture by plugging pieces together like a child’s construction toy.
 - The zmq_send() method does not actually send the message to the socket connection(s). It queues the message so that the I/O thread can send it asynchronously. It does not block except in some exception cases. So the message is not necessarily sent when zmq_send() returns to your application.
 - For most common cases, use tcp, which is a disconnected TCP transport. It is elastic, portable, and fast enough for most cases. We call this disconnected because ZeroMQ’s tcp transport doesn’t require that the endpoint exists before you connect to it. Clients and servers can connect and bind at any time, can go and come back, and it remains transparent to applications.
-- 
+- It automatically reconnects to peers as they come and go. It queues messages at both sender and receiver, as needed. It limits these queues to guard processes against running out of memory. It handles socket errors. It does all I/O in background threads. It uses lock-free techniques for talking between nodes, so there are never locks, waits, semaphores, or deadlocks.
+- ZeroMQ patterns are implemented by pairs of sockets with matching types.
+
+## zmq_socket
+- void *zmq_socket (void '*context', int 'type')
+- The 'type' argument specifies the socket type, which determines the semantics of communication over the socket.
+- The newly created socket is initially unbound, and not associated with any endpoints. In order to establish a message flow a socket must first be connected to at least one endpoint with zmq_connect, or at least one endpoint must be created for accepting incoming connections with zmq_bind
+- 0MQ sockets being asynchronous means that the timings of the physical connection setup and tear down, reconnect and effective delivery are transparent to the user and organized by 0MQ itself. Further, messages may be queued in the event that a peer is unavailable to receive them.
+
+### Socket types
+
+#### Client-server pattern
+- The client-server pattern is used to allow a single 'ZMQ_SERVER' server talk to one or more 'ZMQ_CLIENT' clients.
+- ZMQ_CLIENT - ZMQ_SERVER: 
+    - A 'ZMQ_CLIENT' socket talks to a 'ZMQ_SERVER' socket. 
+    - If the 'ZMQ_CLIENT' socket has established a connection, zmq_send will accept messages, queue them, and send them as rapidly as the network allows. 
+    - The 'ZMQ_CLIENT' socket will not drop messages.
+    - A 'ZMQ_SERVER' socket can only reply to an incoming message: the 'ZMQ_CLIENT' peer must always initiate a conversation.
+    - Each received message has a 'routing_id' that is a 32-bit unsigned integer. 
+
+
+#### Radio-dish pattern
+- The radio-dish pattern is used for one-to-many distribution of data from a single publisher to multiple subscribers in a fan out fashion.
+- Radio-dish is using groups (vs Pub-sub topics), Dish sockets can join a group and each message sent by Radio sockets belong to a group.
