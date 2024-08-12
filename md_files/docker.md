@@ -17,7 +17,7 @@ Isso pode ser passado como exemplo para instalar um novo ambiente;
 - .dockerignore e Dockerfile
 - `docker build --tag <image_name>` cria a build de uma imagem
 - `docker start <ID>` roda um container em estado inativo
-- `docker exec -it <ID_container> bash` entro dentro do meu container.
+- `docker exec -it <ID_container> bash` entro dentro do meu container. A opçãp `-it` significa iterativo e permite passar uma opção a ser rodada dentro do container. Neste caso, a opção a ser rodada será o bash.
 É possível interagir com o repositório normalmente.
 - `exit` sai do container
 
@@ -38,3 +38,19 @@ Para mais informações, acesse: https://docs.docker.com/engine/storage/
 - Docker Composer permite comporto todo o ambiente de containers a serem rodados à partir de um arquivo.
 Este arquivo é chamado docker-compose.yml. Este arquivo possui uma série de variáveis especificando como montar o docker environment.
 Para mais informações, acesse este link: https://docs.docker.com/language/python/develop/#add-a-local-database-and-persist-data
+
+
+# APRENDA DOCKER DO ZERO | TUTORIAL COMPLETO COM DEPLOY
+
+- url: https://www.youtube.com/watch?v=DdoncfOdru8
+- Posso criar uma conta no dockerhub a fazer o upload da minha imagem gerada.
+Esta imagem será disponibilizada para qualquer um baixar
+- Para tanto, devo criar um token na minha conta e registrá-lo em minha máquina local
+- Em seguida, devo criar um novo repositório e dar um push da minha imagem para ele
+- Feito isso, posso baixar esta imagem na minha máquina alvo.
+- Na hora de criar a imagem, posso passar uma flag com o sistema operacional da máquina alvo
+
+
+## Para o caso do windows
+- Usar o docker no windows é um pouco mais difícil. Ele precisa rodar em cima do WSL. Além disso, para acessar uma interface gráfica do container, é preciso instalar uma VNC neste container e acessar via minha máquina local. 
+- Logo, parece uma má escolha colocar isso no CCS.
