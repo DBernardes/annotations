@@ -51,6 +51,7 @@ Esta imagem será disponibilizada para qualquer um baixar
 - Na hora de criar a imagem, posso passar uma flag com o sistema operacional da máquina alvo
 
 
-## Para o caso do windows
+# Para o caso do windows
 - Usar o docker no windows é um pouco mais difícil. Ele precisa rodar em cima do WSL. Além disso, para acessar uma interface gráfica do container, é preciso instalar uma VNC neste container e acessar via minha máquina local. 
 - Logo, parece uma má escolha colocar isso no CCS.
+- Existe o docker desktop para ajudar no gerenciamento de tarefas do docker no windows.
