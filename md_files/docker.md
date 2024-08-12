@@ -30,3 +30,10 @@ Isso pode ser passado como exemplo para instalar um novo ambiente;
 Para mais informações, acesse: https://docs.docker.com/engine/storage/
 - `docker volume ls` lista os volumes criados localmente
 
+## Aula 5
+- Pode-se criar uma conexão dedicada entre containers. Para isso, posso criar uma conexão através do comando `docker create <network_name>`. Esta conexão pode ser passada na hora de rodar o container. Com isso, pode esconder este cotainer dentro do docker e fazer o acesso por um outro container de interface.
+
+
+## Aula 6
+- Docker Composer permite comporto todo o ambiente de containers a serem rodados à partir de um arquivo.
+Este arquivo é chamado docker-compose.yml. 
