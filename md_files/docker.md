@@ -36,4 +36,5 @@ Para mais informações, acesse: https://docs.docker.com/engine/storage/
 
 ## Aula 6
 - Docker Composer permite comporto todo o ambiente de containers a serem rodados à partir de um arquivo.
-Este arquivo é chamado docker-compose.yml. 
+Este arquivo é chamado docker-compose.yml. Este arquivo possui uma série de variáveis especificando como montar o docker environment.
+Para mais informações, acesse este link: https://docs.docker.com/language/python/develop/#add-a-local-database-and-persist-data
