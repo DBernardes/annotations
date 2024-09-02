@@ -94,3 +94,14 @@ abc
 - Deadline: 15/09/2024
 - [Formulário inscrição](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_formularioinscricao.pdf)
 - [Edital](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_edital.pdf)
+
+### Edital
+- Projeto 05: Instrumentação para o Observatório do Pico dos Dias - OPD
+- Tema: Desenvolvimento do controle eletrônico do espectrógrafo Echarpe.
+- Categoria da bolsa: PCI-DB, Código da Bolsa: 5.2
+- não estar matriculado em programa de pós-graduação e
+graduação no momento da indicação junto ao CNPq,
+- Apenas para as propostas das bolsas PCI-D-A e PCI-D-B, é necessário enviar um plano de projeto de pesquisa em comum acordo com o provável supervisor
+- No momento da inscrição, caso o candidato tenha vínculo laboral ou acadêmico, é necessário incluir uma declaração de quando acontecerá a desvinculação, cabendo ao comitê de pré-enquadramento verificar a viabilidade da data e sua possível prorrogação
+- O candidato só poderá SE INSCREVER EM UM ÚNICO TEMA, dentro de um dos
+projetos listados no item 2 deste Edital
