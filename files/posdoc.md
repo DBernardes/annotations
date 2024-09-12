@@ -94,14 +94,25 @@ abc
 - Deadline: 15/09/2024
 - [Formulário inscrição](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_formularioinscricao.pdf)
 - [Edital](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_edital.pdf)
+- [Site](https://www.gov.br/lna/pt-br/assuntos/oportunidades/bolsas-pci-2024)
 
 ### Edital
 - Projeto 05: Instrumentação para o Observatório do Pico dos Dias - OPD
 - Tema: Desenvolvimento do controle eletrônico do espectrógrafo Echarpe.
 - Categoria da bolsa: PCI-DB, Código da Bolsa: 5.2
-- não estar matriculado em programa de pós-graduação e
-graduação no momento da indicação junto ao CNPq,
+- não estar matriculado em programa de pós-graduação e graduação no momento da indicação junto ao CNPq,
 - Apenas para as propostas das bolsas PCI-D-A e PCI-D-B, é necessário enviar um plano de projeto de pesquisa em comum acordo com o provável supervisor
 - No momento da inscrição, caso o candidato tenha vínculo laboral ou acadêmico, é necessário incluir uma declaração de quando acontecerá a desvinculação, cabendo ao comitê de pré-enquadramento verificar a viabilidade da data e sua possível prorrogação
-- O candidato só poderá SE INSCREVER EM UM ÚNICO TEMA, dentro de um dos
-projetos listados no item 2 deste Edital
+- O candidato só poderá SE INSCREVER EM UM ÚNICO TEMA, dentro de um dos projetos listados no item 2 deste Edital
+- No momento da inscrição, caso o candidato tenha vínculo laboral ou acadêmico, é necessário incluir uma declaração de quando acontecerá a desvinculação
+
+- O título da mensagem deverá ser: CADASTRO PCI/LNA (código da bolsa) - Nome do candidato. O nome do candidato poderá compreender o primeiro nome e último sobrenome para melhorar sua identificação.
+
+
+## FAPESP:  Bolsas do Programa de Treinamento Técnico
+- url: 
+    - https://fapesp.br/capacitacaotecnica
+    - https://fapesp.br/10408/roteiro-sugerido-para-formatacao-do-projeto-de-pesquisa-auxilio-a-pesquisa-regular
+
+- O período de vigência da Bolsa de Treinamento Técnico será de no máximo 24 meses, com início sempre no dia primeiro de cada mês, incluindo-se todos os níveis usufruidos.
+-  Utilizar as versões atualizadas das normas, formulários e procedimentos quando da apresentação da solicitação de bolsa, disponíveis nos sites www.fapesp.br e www.fapesp.br/sage.
