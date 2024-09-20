@@ -1,16 +1,5 @@
 # Análise de chamadas abertas para bolsa pos-doc
 
-## AstroAI Fellowship
-- url: https://aas.org/jobregister/ad/a950268e
-- Institution: Center for Astrophysics | Harvard & Smithsonian
-- Number of Positions Available: 1
-- Duration: 1 Year + 3
-- In-Person Location(s): Cambridge, MA United States
-- Theme:  integration of artificial intelligence in astrophysical research
-- p.s: encourages applications from members of historically marginalized groups. 
-- Stipend $81,963.00 USD
-- Included Benefits: Funding for health and dental benefits for the Fellow (and dependents if applicable), which are provided at no cost to the Fellow.
-- Deadline: 31 outubro
 
 ## :white_check_mark: Postdoctoral Research Assistant in Astronomical Instrumentation and for Extra-solar Planet Characterisation 
 - url: 
@@ -47,7 +36,7 @@
 - It is fine to use examples from voluntary work or social activities
 
 
-## Research Associate in CASU Data Science
+## :x: Research Associate in CASU Data Science
 - url: https://aas.org/jobregister/ad/5c55ff9e
 - Institution University of Cambridge
 - Number of Positions Available: 1
@@ -60,37 +49,18 @@
 - Salary:  £36,024 to £44,263
 - Deadline: 13 Setembro
 
-## ESO Fellowship Programme Europe 2024/ 2025
+## :x: ESO Fellowship Programme Europe 2024/ 2025
 - url: https://recruitment.eso.org/jobs/2024_0050
 - Duration: 3 years
 - deadline: 15 novembro
 - Ambas as vagas são para o perfil de astrônomo, com uma pequena dedicação em instrumentação. As vagas para engenharia estão preenchidas até 2027.
 
-## ESO Fellowship Programme Chile 2024/ 2025
+## :x: ESO Fellowship Programme Chile 2024/ 2025
 - url: https://recruitment.eso.org/jobs/2024_0049
 - Duration: 4 years
 
-## Email Diego
-eh so esperar os chamados do carnegie
-aqui tem instrumentacao
-bastante
-todos esses caras aqui sao instrumentistas
-https://carnegiescience.edu/our-research/astronomy/instrument-development-engineering
-ela eh posdoc aqui https://carnegiescience.edu/bio/dr-maren-cosens
-em instrumentacao
-pode contatar a Solange
-https://carnegiescience.edu/bio/dr-solange-ramirez
-ela eh legal tb
-a Julia sempre tem estudandes
-de graduacao
-em instrumentacao
-https://carnegiescience.edu/julia-brady
-da uma pesquisada
-mas acho que a unica posdoc eh a Maren
-pode perguntar ela diretamente
-abc
 
-## Formação de Cadastro de Reserva para bolsas PCI do LNA - Chamada Pública No. 01/2024
+## :white_check_mark: Formação de Cadastro de Reserva para bolsas PCI do LNA - Chamada Pública No. 01/2024
 - Deadline: 15/09/2024
 - [Formulário inscrição](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_formularioinscricao.pdf)
 - [Edital](https://www.gov.br/lna/pt-br/assuntos/oportunidades/anexos/bolsas-pci-2024_edital.pdf)
@@ -118,10 +88,79 @@ abc
 -  Utilizar as versões atualizadas das normas, formulários e procedimentos quando da apresentação da solicitação de bolsa, disponíveis nos sites www.fapesp.br e www.fapesp.br/sage.
 
 
-## Vagas para olhar
+## Postdoctoral Researcher in Scientific Detectors (NIR and VIS)
+- link: https://aas.org/jobregister/ad/c890b10a
+- Duration: 4 Years
+- Local: Germany
+- Application Deadline: 2024 Sep 30
+- Link to Online Application https://www.aip.de/en/jobs/355/
+
+### Documentation
+- A [cover letter](https://www.overleaf.com/project/66ec39ad6dc5335ed6854ae4) (one page maximum) motivating your application
+- [Curriculum Vitae](https://www.overleaf.com/project/66ec2d05308cfc439e5356a5)
+    - List of publications and talks
+- PhD degree certificate (if already available, otherwise specify the expected completion date)
+- Copies of academic degrees
+- [Research summary](https://www.overleaf.com/project/66ec3394f888676d96971b56) describing your experience, skills, and project-related work so far (no more than two pages, including any figures). In the cover letter, a link to a PDF of your PhD thesis would be appreciated (if applicable).
+- Contact information for two individuals willing to provide reference letters upon request. Note that we will request such letters only for a subset of applicants after an initial selection step.
+- A brief research plan
+
+### Writing a cover letter
+- link: https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter
+- it is a three- to four-paragraph memo to employers explaining your interest in the job and company and your fitness for the role.
+- This letter should highlight your skills, experience and achievements concerning the position you seek. 
+
+
+## :bulb: Vagas para olhar
 
 ### FermiLab
 
 #### Power Supply Maintenance Group Leader
 - [link](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/job/Group-Leader-PS-Maintenance_R_007805)
 - Vaga com perfil de engenheiro físico
+
+
+### AstroAI Fellowship
+- url: https://aas.org/jobregister/ad/a950268e
+- Institution: Center for Astrophysics | Harvard & Smithsonian
+- Number of Positions Available: 1
+- Duration: 1 Year + 3
+- In-Person Location(s): Cambridge, MA United States
+- Theme:  integration of artificial intelligence in astrophysical research
+- p.s: encourages applications from members of historically marginalized groups. 
+- Stipend $81,963.00 USD
+- Included Benefits: Funding for health and dental benefits for the Fellow (and dependents if applicable), which are provided at no cost to the Fellow.
+- Deadline: 31 outubro
+
+
+
+### Email Diego
+eh so esperar os chamados do carnegie
+aqui tem instrumentacao
+bastante
+todos esses caras aqui sao instrumentistas
+https://carnegiescience.edu/our-research/astronomy/instrument-development-engineering
+ela eh posdoc aqui https://carnegiescience.edu/bio/dr-maren-cosens
+em instrumentacao
+pode contatar a Solange
+https://carnegiescience.edu/bio/dr-solange-ramirez
+ela eh legal tb
+a Julia sempre tem estudandes
+de graduacao
+em instrumentacao
+https://carnegiescience.edu/julia-brady
+da uma pesquisada
+mas acho que a unica posdoc eh a Maren
+pode perguntar ela diretamente
+abc
+
+## Postdoctoral researcher LASTRO & LHPE
+
+- link: https://aas.org/jobregister/ad/ff8157be
+
+### IAIFI Fellow (Institute for Artificial Intelligence and Fundamental Interactions)
+
+-link: https://aas.org/jobregister/ad/64f910dd
+
+### Postdoc at IAP on cosmology and artificial intelligence
+-link: https://aas.org/jobregister/ad/376e682e
