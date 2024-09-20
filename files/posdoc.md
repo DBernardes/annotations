@@ -64,11 +64,11 @@
 - url: https://recruitment.eso.org/jobs/2024_0050
 - Duration: 3 years
 - deadline: 15 novembro
+- Ambas as vagas são para o perfil de astrônomo, com uma pequena dedicação em instrumentação. As vagas para engenharia estão preenchidas até 2027.
 
 ## ESO Fellowship Programme Chile 2024/ 2025
 - url: https://recruitment.eso.org/jobs/2024_0049
 - Duration: 4 years
-
 
 ## Email Diego
 eh so esperar os chamados do carnegie
@@ -116,3 +116,12 @@ abc
 
 - O período de vigência da Bolsa de Treinamento Técnico será de no máximo 24 meses, com início sempre no dia primeiro de cada mês, incluindo-se todos os níveis usufruidos.
 -  Utilizar as versões atualizadas das normas, formulários e procedimentos quando da apresentação da solicitação de bolsa, disponíveis nos sites www.fapesp.br e www.fapesp.br/sage.
+
+
+## Vagas para olhar
+
+### FermiLab
+
+#### Power Supply Maintenance Group Leader
+- [link](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/job/Group-Leader-PS-Maintenance_R_007805)
+- Vaga com perfil de engenheiro físico
