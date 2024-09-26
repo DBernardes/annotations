@@ -103,7 +103,7 @@
 - Copies of academic degrees
 - [Research summary](https://www.overleaf.com/project/66ec3394f888676d96971b56) describing your experience, skills, and project-related work so far (no more than two pages, including any figures). In the cover letter, a link to a PDF of your PhD thesis would be appreciated (if applicable).
 - Contact information for two individuals willing to provide reference letters upon request. Note that we will request such letters only for a subset of applicants after an initial selection step.
-- A brief research plan
+- A brief [research plan](https://www.overleaf.com/project/66f2bee0f864682051cab534/detacher)
 
 ### Writing a cover letter
 - link: https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter
