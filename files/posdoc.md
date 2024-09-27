@@ -88,7 +88,7 @@
 -  Utilizar as versões atualizadas das normas, formulários e procedimentos quando da apresentação da solicitação de bolsa, disponíveis nos sites www.fapesp.br e www.fapesp.br/sage.
 
 
-## Postdoctoral Researcher in Scientific Detectors (NIR and VIS)
+## :white_check_mark: Postdoctoral Researcher in Scientific Detectors (NIR and VIS)
 - link: https://aas.org/jobregister/ad/c890b10a
 - Duration: 4 Years
 - Local: Germany
