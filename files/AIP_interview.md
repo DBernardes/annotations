@@ -1,113 +1,161 @@
-# Interviews
+# Tips for posdoc interviews
 
-- Link: https://astrobites.org/2022/08/03/guide-to-postdoc-apps-part2/
+- Links:
+    - [A guide to applying to astro postdocs. Part 2: The application process](https://astrobites.org/2022/08/03/guide-to-postdoc-apps-part2/)
+    - [45 Astronomer Interview Questions (With Sample Answers)](https://www.indeed.com/career-advice/interviewing/astronomer-interview-questions#:~:text=Can%20you%20tell%20me%20about%20a%20challenging%20situation,have%20experience%20writing%20scholarly%20articles%20for%20scientific%20journals%3F)
 
-Many postdocs don’t have an interview stage, but some do. Here are some tips on preparing for interviews:
+## 3 minutes “elevator pitch”
+ 
+During my internship at the National Laboratory of Astrophysics (LNA), I developed a method to characterize CCD cameras used in the OPD observatory. This involved experiments to determine key performance metrics like read noise, dark noise, electronic gain, and quantum efficiency (QE). One of our experiments uncovered an unexpected spatial distribution in the dark current of one camera, likely tied to its fabrication process.
 
-- Prepare a 1-3 minute “elevator pitch” for your research! Avoid jargon; you want to make sure your spiel is comprehensible to folks outside your research area (especially important for non-astro-specific postdocs). You definitely want to emphasize how your research fits into the broader context of astronomy: does it answer any open questions? Why is it interesting for folks who aren’t in your field?
+Building on this during my master’s at UNIFEI, I developed an optimization method for the scientific cameras of SPARC4, using Bayesian Optimization. This method significantly improved camera efficiency, optimizing the signal-to-noise ratio and acquisition rate. When applied in real observations, it showed up to 97% improvement in camera performance.
 
-- Other typical questions:
-    - Agradeça o contato, mostre que está empolgado e interessado na vaga. 
-    - Grave o nome das pessoas que estão te avaliando durante a entrevista. 
-    - Seja objetivo em suas respostas. Não dê respostas longas demais.
-    - Como é uma entrevista remota. Ajuste bem o ângulo da câmera para que você apareça. Prepare o cenário atrás de você. Procure um lugar com boa conexão de internet e silencioso. 
-    - Sempre mantenha o olhar na câmera. 
+Currently, in my PhD at INPE, I’m focused on developing the Artificial Image Simulator (AIS) for SPARC4. This Python-based software simulates photometric and polarimetric images, helping us model how SPARC4 interacts with observed light. We are working to calibrate this model against real observations and aim to characterize SPARC4’s polarimetric response to match it to the SDSS system.
+
+Additionally, I participated in an exchange program at Liverpool John Moores University, where I worked on data acquisition with the MOPTOP instrument. We characterized its polarimetric response and applied it to analyze the polarization of Gamma-Ray Burst 230818A.
+
+Throughout my academic journey, I developed the SPARC4 Camera Control System (S4CCS), which integrates LabVIEW, Python, and an SDK from Oxford Instruments to control SPARC4’s cameras. This system supports rapid imaging with minimal overhead, facilitating efficient data collection for scientific observations.
 
 
-- Why this specific [fellowship/institution]?
-    - Instrumentação já desenvolvida foi utilizada em qual telescópio importante? Exemplos do que eles já criaram e para onde foi. Qual a importância desses instrumentos. 
+
+**Why this specific fellowship/institution?**
+
+> - Instrumentação já desenvolvida foi utilizada em qual telescópio importante? 
+    - Exemplos do que eles já criaram e para onde foi. Qual a importância desses instrumentos. 
     -   https://www.aip.de/en/institute/history/
-    -   Além do desenvolvimento de instrumentação. Existem projetos que eu poderia participar. Contexto amplo (instrumentação, até a execução do projeto científico em si)
+    -   Além do desenvolvimento de instrumentação. Existem projetos que eu poderia participar?
 
-- Where do you see yourself in 5-10 years? What do you want to do after a postdoc?
-    - 4 anos de duração. Conexão entre os seus objetivos futuros e vaga pretendida como pós doc. 
-- What research question in your field is of most interest to you? Where do you see your field going in the next few years?
-    - Passar uma noção sobre os esforços que estão acontecendo ao redor do mundo. 
-    - Qual a sua visão sobre a evolução da área nos próximos.  
-- What has been your biggest challenge in your research program, and how have you dealt with it?
-    - Algo que ativamente suas decisões foram determinantes para resolução dos problemas. 
-    - Pessoais, profissionais, administrativas. Nada que comprometa o julgamento deles. Preferencialmente, algo que reverbere nos avaliadores. 
-- What do you consider your most innovative accomplishment to date and why?
-- Always prepare some questions to ask the interviewers! For example, you may want to ask about 
-    - research resources
-    - department culture
+**Where do you see yourself in 5-10 years? What do you want to do after a postdoc?**  
+> I have a strong passion for the control and automation of instruments, particularly when it comes to the planning and development of software solutions. I find great satisfaction in the process of carefully designing and then implementing systems that enhance the functionality of scientific instruments. In the future, I aspire to contribute to the development of astronomical instrumentation, leveraging my expertise in this area. 
+
+> Additionally, much of my knowledge has been self-taught. Reflecting on this, I recognize the value of having guidance and mentorship during the learning process. For this reason, I am deeply motivated to mentor and support students in their development, sharing the knowledge and experience I have gained throughout my career.
+
+**What research question in your field is of most interest to you? Where do you see your field going in the next few years?**
+>    - Passar uma noção sobre os esforços que estão acontecendo ao redor do mundo. 
+    - Qual a sua visão sobre a evolução da área nos próximos anos?
+
+**What has been your biggest challenge in your research program, and how have you dealt with it?**
+>'
+
+**What do you consider your most innovative accomplishment to date and why?**
+> My most significant innovative accomplishment is the development of the S4CCS, a software system designed to control the scientific cameras of SPARC4. I have been working on this project for seven years, and much of my programming expertise has been acquired through this development process. The project has been a collaborative effort, involving multiple team members, with each contributing to different components. In the end, it is essential that all of our software components integrate seamlessly, ensuring proper communication and functionality across the entire system.
+
+**Always prepare some questions to ask the interviewers! For example, you may want to ask about** 
+> - research resources
+     - department culture
     - atividades do instituto, rotina, proximidade de outras instituições/departamentos
     - professional development resources
     - apoio institucional, logística, auxílio diárias, etc
-    - opportunities for teaching/outreach, etc. 
 
 
 
 
-https://www.indeed.com/career-advice/interviewing/astronomer-interview-questions#:~:text=Can%20you%20tell%20me%20about%20a%20challenging%20situation,have%20experience%20writing%20scholarly%20articles%20for%20scientific%20journals%3F
+## Perguntas gerais
+
+**Por que você se interessou por astronomia?**
+> From a young age, I have been deeply interested in fields related to electronics, programming, and physics. As I grew older, I decided to pursue a Bachelor's degree in Physics Engineering, driven by the desire to apply physics concepts in creating innovative technologies. During my internship, I had the opportunity to work on the characterization of the SPARC4 cameras, which later led to my involvement in the development of the S4CCS. Over time, this experience fostered a strong interest in astronomical instrumentation, which has become a central focus of my career aspirations.
+   
+
+**Qual área da astronomia mais te fascina e por quê?**
+> The area of astronomy that fascinates me the most is astronomical instrumentation. Studying the universe demands the most advanced technological innovations. For instance, the next generation of telescopes currently under construction and satellites such as the James Webb Space Telescope are remarkable examples of what humanity can achieve when combining the intellectual and material resources of multiple nations. These developments represent the pinnacle of human collaboration and technological progress in our quest to understand the cosmos.
+
+**Conte-me sobre sua experiência em pesquisa em astronomia**
+> My career has largely been focused on working with the scientific cameras of the SPARC4 instrument. Initially, during my internship, I was involved in the characterization of these cameras. Following that, during both my Master's and PhD projects, I have been responsible for the development of the software used to control these cameras. Throughout this period, I have participated in several commissioning runs of the instrument on the telescope, during which various celestial objects were observed. These included standard stars and rich fields for characterizing the instrument’s performance, as well as scientific objects related to the research themes of the astronomers within the development team.
 
 
+**Quais são seus objetivos de carreira em astronomia?**
+> I aspire to contribute to the development of astronomical instrumentation at an international level, collaborating with global teams to advance cutting-edge technologies in this field.
+
+**Como você se mantém atualizado sobre as últimas descobertas e avanços em astronomia?**
+> To stay current with the latest technologies, I regularly read articles on instruments being developed around the world and the methods employed in their construction. Additionally, I actively follow professional profiles on LinkedIn, as well as YouTube channels that discuss the most recent advancements in astronomical instrumentation. These resources help me remain informed about emerging trends and innovations in the field.
+
+**Quais são seus pontos fortes como astrônomo?**
+> One of my key strengths is my inclination to invest significant time in thoroughly planning a project before beginning its execution. This is a skill that I apply across various aspects of my life. By developing a clear, comprehensive understanding of how all components should function together, the development process becomes far more efficient and manageable.
+
+**Como você lidaria com um desafio em um projeto de pesquisa em astronomia?**
+> My approach to problem-solving begins with organizing all relevant information. First, I clearly define the problem, identifying its causes and consequences. Next, I conduct a thorough review of the literature and consult with more experienced colleagues to explore potential solutions. Once I have a comprehensive understanding of the available options, I select the most appropriate course of action and proceed with implementing the solution.
 
 
-## Perguntas gerais com exemplos de respostas
+**Por que você deseja trabalhar em nossa instituição?**
+> '
 
-1. Por que você se interessou por astronomia?
-: "Desde criança, sempre fui fascinado pelo cosmos, pela vastidão do universo e pelos mistérios que ele guarda. A astronomia me permite explorar o desconhecido, desvendar os segredos do universo e contribuir para o avanço do conhecimento humano. A cada descoberta, a cada nova imagem de um planeta distante ou de uma galáxia longínqua, meu fascínio só aumenta. É uma área que me inspira e me motiva a buscar sempre mais."
-2. Qual área da astronomia mais te fascina e por quê?
-: "A área que mais me fascina é a cosmologia, o estudo da origem, evolução e estrutura do universo como um todo. A possibilidade de desvendar a história do universo, desde o Big Bang até os dias atuais, e compreender os processos que levaram à formação de galáxias, estrelas e planetas é algo que me intriga profundamente. É uma área que me desafia a pensar em escalas de tempo e espaço inimagináveis e a questionar os limites do nosso conhecimento."
-3. Conte-me sobre sua experiência em pesquisa em astronomia.
-: "Durante minha graduação, tive a oportunidade de participar de um projeto de pesquisa focado na análise de dados de exoplanetas. Utilizei técnicas de espectroscopia para identificar a composição atmosférica de exoplanetas e determinar sua potencial habitabilidade. Essa experiência me proporcionou um contato direto com o método científico, desde a coleta e análise de dados até a elaboração de conclusões e apresentação dos resultados. Aprendi a trabalhar em equipe, a lidar com desafios e a desenvolver meu senso crítico."
-4. Quais são seus objetivos de carreira em astronomia?
-: "Meus objetivos de carreira se concentram em contribuir para o avanço da astronomia, seja por meio da pesquisa, do ensino ou da divulgação científica. Aspiro a desenvolver pesquisas inovadoras que expandam nosso conhecimento sobre o universo, a inspirar jovens a se interessarem pela ciência e a compartilhar as maravilhas do cosmos com o público em geral. Acredito que a astronomia tem o poder de nos conectar com algo maior que nós mesmos e de despertar a curiosidade e a paixão pelo conhecimento."
-5. Como você se mantém atualizado sobre as últimas descobertas e avanços em astronomia?
-: "Para me manter atualizado, acompanho as principais revistas científicas da área, como a Nature Astronomy e a The Astrophysical Journal. Também participo de congressos e palestras, onde tenho a oportunidade de interagir com outros astrônomos e conhecer as pesquisas mais recentes. Além disso, sigo sites e blogs de divulgação científica, como o Space.com e o Astrobites, que trazem notícias e informações acessíveis ao público em geral."
-6. Quais são seus pontos fortes como astrônomo?
-: "Meus principais pontos fortes são a paixão pela astronomia, a capacidade analítica, a perseverança e o trabalho em equipe. Sou dedicado, curioso e sempre busco aprender mais. Tenho facilidade em analisar dados, interpretar resultados e resolver problemas. Acredito que minhas habilidades e meu entusiasmo me tornam um candidato promissor para contribuir com as pesquisas e projetos da instituição."
-7. Como você lidaria com um desafio em um projeto de pesquisa em astronomia?
-: "Ao enfrentar um desafio em um projeto de pesquisa, manteria a calma e buscaria soluções de forma estratégica. Primeiramente, analisaria o problema com cuidado, identificando suas causas e possíveis consequências. Em seguida, consultaria a literatura científica e buscaria o auxílio de colegas e orientadores para encontrar alternativas e novas perspectivas. Acredito na importância da colaboração e da troca de conhecimentos para superar obstáculos e alcançar resultados significativos."
-8. Por que você deseja trabalhar em nossa instituição?
-: "Acompanho o trabalho da instituição há algum tempo e admiro a excelência das pesquisas desenvolvidas aqui, especialmente na área de [mencione a área de pesquisa da instituição]. As instalações e os recursos disponíveis são de ponta, e a equipe de pesquisadores é altamente qualificada. Acredito que meu perfil se encaixa perfeitamente com a cultura da instituição e que posso contribuir significativamente para os projetos em andamento."
-2a rodada: Perguntas da parte mais profissional da astronomia
-1. Descreva seu caminho para se tornar um astrônomo. Quais foram as etapas mais importantes e desafiadoras?
-: "Meu fascínio pelo universo começou na infância, observando as estrelas com meu telescópio. A paixão me levou a cursar Física, onde me aprofundei em disciplinas como astrofísica e cosmologia. O mestrado em Astronomia foi crucial para desenvolver minhas habilidades de pesquisa e análise de dados. O maior desafio foi conciliar os estudos com a participação em projetos de pesquisa, exigindo organização e dedicação. Mas a cada etapa vencida, a certeza de que estava no caminho certo se fortalecia."
-2. Quais habilidades você considera essenciais para um astrônomo de sucesso, além do conhecimento técnico?
-: "Além do conhecimento em física, matemática e astronomia, a curiosidade insaciável e a persistência são combustíveis para um astrônomo. A capacidade de analisar dados, formular hipóteses e interpretar resultados é crucial. O trabalho em equipe e a comunicação clara são vitais para colaborar em projetos e compartilhar descobertas. A criatividade e o pensamento crítico também são diferenciais para solucionar problemas e propor novas ideias."
-3. Como você visualiza o futuro da astronomia e qual o seu papel nesse cenário?
-: "A astronomia vive uma era de ouro, com novas tecnologias e missões espaciais revelando o universo como nunca antes. Vejo um futuro com grandes descobertas sobre a origem do universo, a existência de vida extraterrestre e a exploração espacial. Meu objetivo é contribuir para esse futuro, participando de pesquisas inovadoras, utilizando inteligência artificial na análise de dados e inspirando futuras gerações de astrônomos."
-4. Compartilhe um momento "Eureka!" em sua trajetória na astronomia, quando uma descoberta ou aprendizado te impactou profundamente.
-: "Durante meu projeto de iniciação científica, analisando dados de um telescópio, observei um padrão incomum em uma curva de luz. Após semanas de investigação, descobri que se tratava de um exoplaneta transitando em frente à sua estrela! Aquele momento "Eureka!" foi indescritível, a sensação de ter desvendado um segredo do universo e contribuído para a ciência me impulsionou ainda mais na carreira."
-5. Como você lida com a pressão e os desafios inerentes à pesquisa em astronomia, como lidar com dados complexos, prazos apertados e a busca por resultados?
-: "A pesquisa em astronomia exige resiliência e paixão. Diante de desafios, mantenho o foco nos meus objetivos, dividindo as tarefas em etapas e buscando apoio da equipe. A organização e o planejamento são meus aliados para lidar com prazos e dados complexos. Celebrar as pequenas conquistas e manter o entusiasmo pela busca do conhecimento me ajudam a superar a pressão e seguir em frente."
+## Perguntas profissionais sobre astronomia
 
-## 3a rodada: Perguntas concentradas no tema da astronomia instrumental.
+**Descreva seu caminho para se tornar um astrônomo. Quais foram as etapas mais importantes e desafiadoras?**
+> '
 
-1. Quais avanços tecnológicos você considera mais promissores para o futuro da astronomia instrumental?
-: "A astronomia instrumental está em constante evolução, impulsionada por avanços tecnológicos incríveis. Acredito que os telescópios espaciais de próxima geração, como o James Webb, revolucionarão nossa compreensão do universo, observando em comprimentos de onda inéditos e com maior resolução. A inteligência artificial também terá papel fundamental na análise da imensa quantidade de dados gerados, permitindo identificar padrões e descobrir novos objetos celestes. Técnicas de óptica adaptativa e interferometria também serão aprimoradas, proporcionando imagens mais nítidas e detalhadas de objetos distantes."
-2. Como você se mantém atualizado sobre as últimas descobertas e avanços em astronomia instrumental?
-: "Para me manter na vanguarda da astronomia instrumental, acompanho as publicações de importantes centros de pesquisa, como o ESO (Observatório Europeu do Sul) e o JPL (Laboratório de Propulsão a Jato da NASA). Além disso, participo de congressos e workshops internacionais, onde tenho contato com as últimas inovações e pesquisas. A leitura de periódicos científicos como a Astronomy & Astrophysics e o Monthly Notices of the Royal Astronomical Society me mantém atualizado sobre as novas tecnologias e descobertas."
-3. Na sua visão, quais os maiores desafios e oportunidades na área de astronomia instrumental para as próximas décadas?
-: "O futuro da astronomia instrumental é promissor, mas também repleto de desafios. A construção de telescópios cada vez maiores e mais complexos exige investimentos e colaboração internacional. A crescente quantidade de dados coletados demanda o desenvolvimento de novas técnicas de processamento e análise. No entanto, esses desafios também trazem oportunidades: a descoberta de novos planetas, o estudo da matéria escura e da energia escura, e a busca por vida extraterrestre. Acredito que a astronomia instrumental nos reserva grandes surpresas e avanços nas próximas décadas."
-4. Como você imagina que a inteligência artificial e o machine learning impactarão a astronomia instrumental no futuro?
-: "A inteligência artificial e o machine learning já estão revolucionando a astronomia instrumental, automatizando a análise de dados, identificando padrões complexos e auxiliando na descoberta de novos objetos celestes. No futuro, essas tecnologias serão ainda mais importantes para lidar com o volume crescente de dados gerados pelos telescópios. Algoritmos avançados poderão detectar eventos astronômicos em tempo real, como supernovas e explosões de raios gama, permitindo observações rápidas e detalhadas. A inteligência artificial também auxiliará na otimização do design e operação dos telescópios, maximizando sua eficiência e potencial de descoberta."
-5. Que áreas de pesquisa em astronomia instrumental você considera mais promissoras para sua carreira?
-: "Tenho grande interesse em contribuir para o desenvolvimento de telescópios espaciais de próxima geração, com foco em exoplanetas e na busca por bioassinaturas. A espectroscopia de alta resolução e a astrometria precisa são áreas que me fascinam, pois permitem caracterizar a atmosfera e a órbita de exoplanetas, buscando sinais de vida. Acredito que a combinação de novas tecnologias e técnicas inovadoras abrirá portas para descobertas extraordinárias nesse campo."
+**Quais habilidades você considera essenciais para um astrônomo de sucesso, além do conhecimento técnico?**
+> In addition to technical knowledge, I believe that the development of soft skills is equally important. Most astronomical projects currently under development rely on collaboration among institutes and individuals with diverse areas of expertise. To foster collaboration, it is essential to create an environment conducive to contribution and positive relationships. This is a practice that must be developed and nurtured on a daily basis within the work environment.
 
-## Perguntas do ESO fellowship (compilado de perguntas reais do processo de seleção) 
+**Como você visualiza o futuro da astronomia e qual o seu papel nesse cenário?**
+> '
 
-- What do you think are the biggest achievements in Astronomy/ESO in the last 5/10 years?
-- Where do you think new instrumentation/telescopes will take your research field?
-- Or: which future instrument will impact your research the most? How?
-- What do you think will be the biggest impact of new instrumentation/telescopes onto Astronomy in general?
-- How would you describe your research to somebody that does know anything about Astronomy (your grandmother/...)
-- If you were given a night of VLT time, at any instrument, which one would you choose and what would you do with the time?
-- Have you ever encountered a conflict situation during your work? If so, how did you resolve it?
-- Suppose a visiting astronomer comes to Paranal and has a goal/strategy which will not give the optimal result. How would you address this?
-- Suppose a visiting astronomer comes to Paranal and weather conditions don't allow to open the telescope. They blame you. How do you react?
-- What are the duties of a day time astronomer/night time astronomer?
-- What do you expect to be the biggest challenge of a fellowship in Chile?
-- Where do you see yourself in 5/10 years academically?
-- If you could choose an instrument to work with whilst your duty in Paranal, which one would that be?
-- Not so much a question: but be prepared for some instrument related questions if there is an obvious instrument for your research topic (e.g. someone was asked about the polarimetry mode of FORS2. Specifically, they asked him/her to explain the path of a photon as it enters the telescope until it reached the detector when the instrument is used in polarimetric mode.)
-- Assume you are offered a fellowship and after a year of work you realise you are not on track with your scientific work. How would you try and solve that problem?
-- Why do you want to come to ESO Chile as opposed to Garching or a purely scientific job?
-- Why should we hire you?
-- If you were offered the job, would you accept it? How long would it take for you to decide?
-- If you realise in the morning that you have made a mistake and forgot to take calibrations and there is no way to redeem, what would you do?
-- If there are no runs to be executed from the queue and the telescope is idle, and there is no one to ask, what would you do?
-- They also asked some specific questions about some things that I wrote on my science proposal and observing runs.
+**Compartilhe um momento "Eureka!" em sua trajetória na astronomia, quando uma descoberta ou aprendizado te impactou profundamente.**
+> An experience that left a profound impression on me was when I gained a deeper understanding of how the Point Spread Function (PSF) of stars is formed on a detector during observation. These images result from two fundamental phenomena. The first is the diffraction of light, determined by the size of the telescope's primary mirror. The second is the dispersion of this diffraction pattern around a central point, caused by atmospheric turbulence.
 
+**Como você lida com a pressão e os desafios inerentes à pesquisa em astronomia, como lidar com dados complexos, prazos apertados e a busca por resultados?**
+> Sometimes we encounter situations so challenging that they can deeply affect our emotions. In these moments, it is important to stay focused on our goals by breaking tasks into stages and seeking support from the team. Organization and planning are my allies in managing deadlines and complex data. Celebrating small achievements and maintaining enthusiasm for the pursuit of knowledge help me overcome the pressure and keep moving forward.
+
+## Perguntas concentradas no tema da astronomia instrumental.
+
+**Quais avanços tecnológicos você considera mais promissores para o futuro da astronomia instrumental?**
+> '
+
+**Como você se mantém atualizado sobre as últimas descobertas e avanços em astronomia instrumental?**
+> ,
+
+**Na sua visão, quais os maiores desafios e oportunidades na área de astronomia instrumental para as próximas décadas?**
+> The future of instrumental astronomy is promising but also filled with challenges. The construction of increasingly larger and more complex telescopes requires significant investments and international collaboration. The growing amount of collected data demands the development of new processing and analysis techniques. However, these challenges also bring opportunities: the discovery of new planets, the study of dark matter and dark energy, and the search for extraterrestrial life. I believe that instrumental astronomy holds great surprises and advancements for us in the coming decades.
+
+**Como você imagina que a inteligência artificial e o machine learning impactarão a astronomia instrumental no futuro?**
+> Artificial intelligence and machine learning are already revolutionizing instrumental astronomy by automating data analysis, identifying complex patterns, and aiding in the discovery of new celestial objects. In the future, these technologies will become even more critical for handling the increasing volume of data generated by telescopes. Advanced algorithms will be able to detect astronomical events in real-time, such as supernovae and gamma-ray bursts, enabling swift and detailed observations. Artificial intelligence will also assist in optimizing the design and operation of telescopes, maximizing their efficiency and discovery potential.
+
+**Que áreas de pesquisa em astronomia instrumental você considera mais promissoras para sua carreira?**
+> ,
+
+
+## Perguntas do ESO fellowship
+
+**What do you think are the biggest achievements in Astronomy/AIP in the last 5/10 years?**
+> .
+
+**Where do you think new instrumentation/telescopes will take your research field? Or: which future instrument will impact your research the most? How?**
+> . 
+
+**What do you think will be the biggest impact of new instrumentation/telescopes onto Astronomy in general?**
+>.
+
+**How would you describe your research to somebody that does know anything about Astronomy (your grandmother)**
+> I would describe my work as supporting astronomers in their study of the sky by developing astronomical instrumentation. The primary tool of an astronomer is the telescope, which allows for much greater sensitivity than the human eye. However, a wide range of studies can be conducted by attaching additional instruments to the telescope. For instance, we can transform the light from a star into a spectrum, akin to a rainbow. I am responsible for developing the control systems for these types of instruments, enabling their precise operation and enhancing the scope of astronomical research.
+
+**Have you ever encountered a conflict situation during your work? If so, how did you resolve it?**
+> There was an instance where my supervisor assigned me a task that I was certain was incorrect. In that situation, I took a moment to compose myself and proceeded with the task as requested. Ultimately, my supervisor recognized the error and was convinced of the issue.
+
+**Suppose a visiting astronomer comes to Paranal and weather conditions don't allow to open the telescope. They blame you. How do you react?**
+> I would explain that, unfortunately, opening the telescope under the current conditions poses a risk to the observatory's equipment. Therefore, I am not permitted to allow the observation to proceed at this time. However, I would also mention that if the individual remains patient, there is a possibility that the weather conditions may improve later in the night, potentially allowing us to open the telescope.
+
+**What do you expect to be the biggest challenge of a fellowship in AIP?**
+> The biggest challenge will be, in a first sight, to undertand how to use the equipment related to my work. Getting used to the workstations, as well as how to properly deal with the cameras to get the result that I need is a task that requires a learning curve. I belive that, after this first impression, I will be able to accomplish the objectives of my fellowship without worries.
+
+**Not so much a question: but be prepared for some instrument related questions if there is an obvious instrument for your research topic**
+> .
+
+**Assume you are offered a fellowship and after a year of work you realise you are not on track with your scientific work. How would you try and solve that problem?**
+> If I found myself in a situation where, after a year, I realized I was not on track with my scientific work during a fellowship, I would approach the issue in a structured manner:
+> First, I would assess the situation by identifying the specific reasons for the delay—whether they are related to unforeseen challenges in the research, time management, or other external factors. Next, I would consult with my supervisor or mentor, seeking their advice and feedback on how to adjust my approach to meet the expected goals. I believe open communication is essential in such situations to realign expectations and seek guidance on prioritizing tasks.
+> Additionally, I would revise my work plan, breaking it down into smaller, more manageable milestones to create a clear path forward. This would allow me to focus on the most critical tasks and monitor progress more closely. If necessary, I would explore resources or collaborations that could accelerate my work, whether through technical support, additional training, or partnerships.
+
+**Why should we hire you?**
+> You should consider hiring me because I possess a skill set that is well-suited to addressing the challenges associated with this fellowship. As you may be aware, our objective is the characterization of the PAWS camera. I have been working with CCD cameras for eight years, and my first published article focused on the characterization of the SPARC4 cameras. With this experience, combined with my expertise in software development, I am confident in my ability to establish a robust methodology for the systematic characterization of camera performance. Additionally, I will ensure that a comprehensive record of the results obtained throughout the duration of the fellowship is maintained.
+
+
+**If you were offered the job, would you accept it? How long would it take for you to decide?**
+> I am very enthusiastic about the opportunity to join your team, and I would certainly be inclined to accept the job if offered. However, I would take a moment to carefully review the details of the offer to ensure that I fully understand the terms and responsibilities. I believe that a period of two to three days would be sufficient for me to make an informed decision. Ultimately, I want to ensure that I am fully committed to the role and aligned with the organization's goals.
+
+**They also asked some specific questions about some things that I wrote on my science proposal**
+> .
+
+
+## Como encerrar
+
+> Thank you very much for taking the time to speak with me today. I genuinely appreciate the opportunity to learn more about the position and the team. I am very excited about the possibility of contributing to AIP and being part of such an innovative environment. Could you please share what the next steps in the hiring process will be? I look forward to hearing from you soon.
