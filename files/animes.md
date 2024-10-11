@@ -3,3 +3,5 @@
 - Cautious hero
 - Mushoku tensei
 - Re: zero
+- Chilling in another world with level2 super chear powers
+- The strongest tanks labryrinth raids

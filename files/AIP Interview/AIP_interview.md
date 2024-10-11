@@ -1,20 +1,13 @@
 # Tips for posdoc interviews
 
-- Links:
-    - [A guide to applying to astro postdocs. Part 2: The application process](https://astrobites.org/2022/08/03/guide-to-postdoc-apps-part2/)
-    - [45 Astronomer Interview Questions (With Sample Answers)](https://www.indeed.com/career-advice/interviewing/astronomer-interview-questions#:~:text=Can%20you%20tell%20me%20about%20a%20challenging%20situation,have%20experience%20writing%20scholarly%20articles%20for%20scientific%20journals%3F)
-
 ## 3 minutes “elevator pitch”
  
-During my internship at the National Laboratory of Astrophysics (LNA), I developed a method to characterize CCD cameras used in the OPD observatory. This involved experiments to determine key performance metrics like read noise, dark noise, electronic gain, and quantum efficiency (QE). One of our experiments uncovered an unexpected spatial distribution in the dark current of one camera, likely tied to its fabrication process.
-
+>During my internship at the National Laboratory of Astrophysics (LNA), I developed a method to characterize CCD cameras used in the OPD observatory. This involved experiments to determine key performance metrics like read noise, dark noise, electronic gain, and quantum efficiency (QE). One of our experiments uncovered an unexpected spatial distribution in the dark current of one camera, likely tied to its fabrication process.
 Building on this during my master’s at UNIFEI, I developed an optimization method for the scientific cameras of SPARC4, using Bayesian Optimization. This method significantly improved camera efficiency, optimizing the signal-to-noise ratio and acquisition rate. When applied in real observations, it showed up to 97% improvement in camera performance.
-
 Currently, in my PhD at INPE, I’m focused on developing the Artificial Image Simulator (AIS) for SPARC4. This Python-based software simulates photometric and polarimetric images, helping us model how SPARC4 interacts with observed light. We are working to calibrate this model against real observations and aim to characterize SPARC4’s polarimetric response to match it to the SDSS system.
-
 Additionally, I participated in an exchange program at Liverpool John Moores University, where I worked on data acquisition with the MOPTOP instrument. We characterized its polarimetric response and applied it to analyze the polarization of Gamma-Ray Burst 230818A.
-
 Throughout my academic journey, I developed the SPARC4 Camera Control System (S4CCS), which integrates LabVIEW, Python, and an SDK from Oxford Instruments to control SPARC4’s cameras. This system supports rapid imaging with minimal overhead, facilitating efficient data collection for scientific observations.
+
 
 
 
@@ -159,3 +152,8 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 ## Como encerrar
 
 > Thank you very much for taking the time to speak with me today. I genuinely appreciate the opportunity to learn more about the position and the team. I am very excited about the possibility of contributing to AIP and being part of such an innovative environment. Could you please share what the next steps in the hiring process will be? I look forward to hearing from you soon.
+
+
+## Related links
+- [A guide to applying to astro postdocs. Part 2: The application process](https://astrobites.org/2022/08/03/guide-to-postdoc-apps-part2/)
+- [45 Astronomer Interview Questions (With Sample Answers)](https://www.indeed.com/career-advice/interviewing/astronomer-interview-questions#:~:text=Can%20you%20tell%20me%20about%20a%20challenging%20situation,have%20experience%20writing%20scholarly%20articles%20for%20scientific%20journals%3F)
