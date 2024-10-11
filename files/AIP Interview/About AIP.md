@@ -1,4 +1,4 @@
-# AIP
+# Leibniz Institute for Astrophysics Potsdam (AIP)
 
 
 
@@ -94,12 +94,13 @@ Photonic lanterns (PL) are photonic (or fibre optic) devices that distribute the
 ### Photon Density Wave (PDW) Spectroscopy 
 PWD is an advanced optical technique used to probe the properties of turbid media, such as biological tissues, where light scattering dominates. It relies on the propagation of photon density waves, which are generated when a modulated light source interacts with the medium.
 
-### Center for High Angular Resolution Astronomy
-- [Center for High Angular Resolution Astronomy](http://www.chara.gsu.edu/)
+### [Center for High Angular Resolution Astronomy](http://www.chara.gsu.edu/)
 
-### The CHARA Array Integrated Optics Testbed or CHARIOT
+The flagship project of Georgia State University's Center for High Angular Resolution Astronomy (CHARA) is its optical interferometric array of six telescopes located on Mount Wilson, California. Each telescope of the CHARA Array has a light-collecting mirror 1-meter in diameter. The telescopes are dispersed over the mountain to provide a two-dimensional layout that provides the resolving capability (but not the light collecting ability!) of a single telescope with a diameter of 330 meters (one fifth of a mile)! Light from the individual telescopes is transported through vacuum tubes to a central Beam Synthesis Facility in which the six beams are combined together. When the paths of the individual beams are matched to an accuracy of less than one micron, after the light traverses distances of hundreds of meters, the Array then acts like a single coherent telescope for the purposes of achieving exceptionally high angular resolution. The Array is capable of resolving details as small as 200 micro-arcseconds, equivalent to the angular size of a nickel seen from a distance of 10,000 miles. In terms of the number and size of its individual telescopes, its ability to operate at visible and near infrared wavelengths, and its longest baselines of 330 meters, the CHARA Array is arguably the most powerful instrument of its kind in the world.
 
-[link](https://baas.aas.org/pub/2024n2i301p16/release/1)
+### [The CHARA Array Integrated Optics Testbed or CHARIOT](https://spie.org/astronomical-telescopes-instrumentation/presentation/CHARA-Array-Integrated-Optics-Testbench-CHARIOT-for-on-sky-experiments/13095-66#_=_)
+
+The goal of the CHara ARray Integrated Optics Testbench (CHARIOT) is to establish a fully characterized (nulling) interferometry setup for on-sky tests of novel astrophotonic 2D or 3D beam combiners for the interferometry community worldwide. CHARIOT is planned for four telescope beams covering the J-, H-, and K-bands with plug-and-play fiber interfaces. Verifying novel astrophotonics on-sky with CHARIOT will enable the development of components and advances in instruments in many fields, including nulling and spectro-interferometry.
 
 ## Related links
 
