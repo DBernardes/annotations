@@ -24,21 +24,19 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > Additionally, much of my knowledge has been self-taught. Reflecting on this, I recognize the value of having guidance and mentorship during the learning process. For this reason, I am deeply motivated to mentor and support students in their development, sharing the knowledge and experience I have gained throughout my career.
 
 **What research question in your field is of most interest to you? Where do you see your field going in the next few years?**
->    - Passar uma noção sobre os esforços que estão acontecendo ao redor do mundo. 
-    - Qual a sua visão sobre a evolução da área nos próximos anos?
+> The coming years in astronomical instrumentation will be primarily defined by the next generation of large telescopes, such as the Giant Magellan Telescope (GMT), the Thirty Meter Telescope (TMT), and the European Extremely Large Telescope (ELT). These projects represent collaborative efforts between multiple nations and institutions to construct observatories that surpass the scale and capabilities of the largest telescopes currently in operation. Alongside these groundbreaking telescopes, cutting-edge advancements in astronomical instrumentation are emerging, particularly in the development of data processing pipelines that leverage machine learning algorithms to manage the vast amounts of data these facilities will generate. Consequently, I anticipate significant growth and development within my field of expertise.
 
 **What has been your biggest challenge in your research program, and how have you dealt with it?**
->'
+> The greatest challenge in my research has been the absence of an advisor with a strong background in software engineering. As a result, there was a period in my professional life when I had to independently acquire all the knowledge necessary to properly develop software for large-scale projects. Despite this difficulty, I am satisfied with my current programming skills. Moreover, this experience has taught me how to effectively study and approach new topics in which I initially had no prior expertise.
 
 **What do you consider your most innovative accomplishment to date and why?**
 > My most significant innovative accomplishment is the development of the S4CCS, a software system designed to control the scientific cameras of SPARC4. I have been working on this project for seven years, and much of my programming expertise has been acquired through this development process. The project has been a collaborative effort, involving multiple team members, with each contributing to different components. In the end, it is essential that all of our software components integrate seamlessly, ensuring proper communication and functionality across the entire system.
 
 **Always prepare some questions to ask the interviewers! For example, you may want to ask about** 
-> - research resources
-     - department culture
-    - atividades do instituto, rotina, proximidade de outras instituições/departamentos
-    - professional development resources
-    - apoio institucional, logística, auxílio diárias, etc
+> - How does the institution support postdocs in developing their academic careers (e.g., grant writing, teaching opportunities, mentorship)?
+> - Are there opportunities for professional development, such as attending conferences, workshops, or networking with other leading experts?
+> - Can you tell me more about the team dynamics and the overall work culture in the department or lab?
+> - How does the institution support postdocs in transitioning to permanent academic or research positions?
 
 
 
@@ -70,18 +68,19 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 
 
 **Por que você deseja trabalhar em nossa instituição?**
-> '
+> Example: "I chose your institution because of its outstanding reputation in astronomical instrumentation and the opportunity to work with renowned experts like Professor X. The access to state-of-the-art facilities, such as your new observational center, perfectly aligns with my research on data analysis for large-scale telescopes. I believe my background in software development and astronomical data management will contribute to your current projects, and I’m eager to collaborate with your team to drive innovation in this field."
 
 ## Perguntas profissionais sobre astronomia
 
 **Descreva seu caminho para se tornar um astrônomo. Quais foram as etapas mais importantes e desafiadoras?**
-> '
+> This question has been already answered (pitch).
 
 **Quais habilidades você considera essenciais para um astrônomo de sucesso, além do conhecimento técnico?**
 > In addition to technical knowledge, I believe that the development of soft skills is equally important. Most astronomical projects currently under development rely on collaboration among institutes and individuals with diverse areas of expertise. To foster collaboration, it is essential to create an environment conducive to contribution and positive relationships. This is a practice that must be developed and nurtured on a daily basis within the work environment.
 
 **Como você visualiza o futuro da astronomia e qual o seu papel nesse cenário?**
-> '
+>  The future of astronomy will be driven by next-generation telescopes like the ELT, GMT, and TMT, which will significantly expand our observational capabilities. These advancements, coupled with cutting-edge instrumentation and machine learning algorithms for managing vast datasets, will lead to groundbreaking discoveries in areas such as exoplanet research, dark matter, and the early universe. Collaborative efforts and innovations will shape a transformative era for the field. 
+Given that my desire is to work with astronomical instrumentation, I believe that there may be a change for me to work with the large scale instruments with international collaboration.
 
 **Compartilhe um momento "Eureka!" em sua trajetória na astronomia, quando uma descoberta ou aprendizado te impactou profundamente.**
 > An experience that left a profound impression on me was when I gained a deeper understanding of how the Point Spread Function (PSF) of stars is formed on a detector during observation. These images result from two fundamental phenomena. The first is the diffraction of light, determined by the size of the telescope's primary mirror. The second is the dispersion of this diffraction pattern around a central point, caused by atmospheric turbulence.
@@ -92,10 +91,10 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 ## Perguntas concentradas no tema da astronomia instrumental.
 
 **Quais avanços tecnológicos você considera mais promissores para o futuro da astronomia instrumental?**
-> '
+> This question has been already answered.
 
 **Como você se mantém atualizado sobre as últimas descobertas e avanços em astronomia instrumental?**
-> ,
+> This question has been already answered.
 
 **Na sua visão, quais os maiores desafios e oportunidades na área de astronomia instrumental para as próximas décadas?**
 > The future of instrumental astronomy is promising but also filled with challenges. The construction of increasingly larger and more complex telescopes requires significant investments and international collaboration. The growing amount of collected data demands the development of new processing and analysis techniques. However, these challenges also bring opportunities: the discovery of new planets, the study of dark matter and dark energy, and the search for extraterrestrial life. I believe that instrumental astronomy holds great surprises and advancements for us in the coming decades.
@@ -104,8 +103,7 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > Artificial intelligence and machine learning are already revolutionizing instrumental astronomy by automating data analysis, identifying complex patterns, and aiding in the discovery of new celestial objects. In the future, these technologies will become even more critical for handling the increasing volume of data generated by telescopes. Advanced algorithms will be able to detect astronomical events in real-time, such as supernovae and gamma-ray bursts, enabling swift and detailed observations. Artificial intelligence will also assist in optimizing the design and operation of telescopes, maximizing their efficiency and discovery potential.
 
 **Que áreas de pesquisa em astronomia instrumental você considera mais promissoras para sua carreira?**
-> ,
-
+> This question has been already answered.
 
 ## Perguntas do ESO fellowship
 
@@ -113,10 +111,10 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > .
 
 **Where do you think new instrumentation/telescopes will take your research field? Or: which future instrument will impact your research the most? How?**
-> . 
+> This question has been already answered.
 
 **What do you think will be the biggest impact of new instrumentation/telescopes onto Astronomy in general?**
->.
+> This question has been already answered.
 
 **How would you describe your research to somebody that does know anything about Astronomy (your grandmother)**
 > I would describe my work as supporting astronomers in their study of the sky by developing astronomical instrumentation. The primary tool of an astronomer is the telescope, which allows for much greater sensitivity than the human eye. However, a wide range of studies can be conducted by attaching additional instruments to the telescope. For instance, we can transform the light from a star into a spectrum, akin to a rainbow. I am responsible for developing the control systems for these types of instruments, enabling their precise operation and enhancing the scope of astronomical research.
@@ -131,7 +129,7 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > The biggest challenge will be, in a first sight, to undertand how to use the equipment related to my work. Getting used to the workstations, as well as how to properly deal with the cameras to get the result that I need is a task that requires a learning curve. I belive that, after this first impression, I will be able to accomplish the objectives of my fellowship without worries.
 
 **Not so much a question: but be prepared for some instrument related questions if there is an obvious instrument for your research topic**
-> .
+> I should read about the PAWS instrument for this one.
 
 **Assume you are offered a fellowship and after a year of work you realise you are not on track with your scientific work. How would you try and solve that problem?**
 > If I found myself in a situation where, after a year, I realized I was not on track with my scientific work during a fellowship, I would approach the issue in a structured manner:
@@ -146,7 +144,7 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > I am very enthusiastic about the opportunity to join your team, and I would certainly be inclined to accept the job if offered. However, I would take a moment to carefully review the details of the offer to ensure that I fully understand the terms and responsibilities. I believe that a period of two to three days would be sufficient for me to make an informed decision. Ultimately, I want to ensure that I am fully committed to the role and aligned with the organization's goals.
 
 **They also asked some specific questions about some things that I wrote on my science proposal**
-> .
+> I should read my research proposal for this one.
 
 
 ## Como encerrar

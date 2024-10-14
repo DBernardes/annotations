@@ -88,6 +88,11 @@ The most direct approach consists in actively correcting for the distortion of t
 ### Photonic Lanterns
 Photonic lanterns (PL) are photonic (or fibre optic) devices that distribute the light collected by a large multimode waveguide (or optical fibre) into multiple near diffraction-limited waveguides (or single-mode fibres). In astrophotonics, such devices are crucial to couple star light efficiently from a telescope into photonic components.
 
+### The most important achievements
+- These somewhat unwieldy terms can be summarised in a short sentence: the development of a spectrograph 'on-a-chip'. This picture gives an idea of what is involved: the realisation of what are traditionally large and expensive high-performance optics in a tiny photonic chip.
+- The Leibniz Institute for Innovative Microelectronics (IHP) has all the prerequisites and expertise to integrate the image sensor into the PIC, a marriage of photonics and electronics, so to speak.
+- Researchers hope that this will not only lead to a breakthrough for astrophysical instruments, particularly in space, but also to outstanding innovation potential and future market opportunities in areas such as agricultural technology, mobility, healthcare, food technology and chemistry
+
 
 ## Coisas a saber
 
