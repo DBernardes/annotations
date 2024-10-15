@@ -2,7 +2,7 @@
 
 ## 3 minutes “elevator pitch”
  
->During my internship at the National Laboratory of Astrophysics (LNA), I developed a method to characterize CCD cameras used in the OPD observatory. This involved experiments to determine key performance metrics like read noise, dark noise, electronic gain, and quantum efficiency (QE). One of our experiments uncovered an unexpected spatial distribution in the dark current of one camera, likely tied to its fabrication process.
+> During my internship at the National Laboratory of Astrophysics (LNA), I developed a method to characterize CCD cameras used in the OPD observatory. This involved experiments to determine key performance metrics like read noise, dark noise, electronic gain, and quantum efficiency (QE). One of our experiments uncovered an unexpected spatial distribution in the dark current of one camera, likely tied to its fabrication process.
 Building on this during my master’s at UNIFEI, I developed an optimization method for the scientific cameras of SPARC4, using Bayesian Optimization. This method significantly improved camera efficiency, optimizing the signal-to-noise ratio and acquisition rate. When applied in real observations, it showed up to 97% improvement in camera performance.
 Currently, in my PhD at INPE, I’m focused on developing the Artificial Image Simulator (AIS) for SPARC4. This Python-based software simulates photometric and polarimetric images, helping us model how SPARC4 interacts with observed light. We are working to calibrate this model against real observations and aim to characterize SPARC4’s polarimetric response to match it to the SDSS system.
 Additionally, I participated in an exchange program at Liverpool John Moores University, where I worked on data acquisition with the MOPTOP instrument. We characterized its polarimetric response and applied it to analyze the polarization of Gamma-Ray Burst 230818A.
@@ -10,13 +10,8 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 
 
 
-
 **Why this specific fellowship/institution?**
-
-> - Instrumentação já desenvolvida foi utilizada em qual telescópio importante? 
-    - Exemplos do que eles já criaram e para onde foi. Qual a importância desses instrumentos. 
-    -   https://www.aip.de/en/institute/history/
-    -   Além do desenvolvimento de instrumentação. Existem projetos que eu poderia participar?
+> I chose your institution because of its outstanding reputation in astronomical instrumentation. The access to state-of-the-art facilities, such as the Potsdam Arrayed Waveguide Spectrograph (PAWS), or even the MARCOT segmented telescope, perfectly aligns with my professional background. I believe my experience in astronomical instrumentation will contribute to your current projects, and I’m eager to collaborate with your team to drive innovation in this field.
 
 **Where do you see yourself in 5-10 years? What do you want to do after a postdoc?**  
 > I have a strong passion for the control and automation of instruments, particularly when it comes to the planning and development of software solutions. I find great satisfaction in the process of carefully designing and then implementing systems that enhance the functionality of scientific instruments. In the future, I aspire to contribute to the development of astronomical instrumentation, leveraging my expertise in this area. 
@@ -37,7 +32,6 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > - Are there opportunities for professional development, such as attending conferences, workshops, or networking with other leading experts?
 > - Can you tell me more about the team dynamics and the overall work culture in the department or lab?
 > - How does the institution support postdocs in transitioning to permanent academic or research positions?
-
 
 
 
@@ -68,7 +62,7 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 
 
 **Por que você deseja trabalhar em nossa instituição?**
-> Example: "I chose your institution because of its outstanding reputation in astronomical instrumentation and the opportunity to work with renowned experts like Professor X. The access to state-of-the-art facilities, such as your new observational center, perfectly aligns with my research on data analysis for large-scale telescopes. I believe my background in software development and astronomical data management will contribute to your current projects, and I’m eager to collaborate with your team to drive innovation in this field."
+> This questions has already been answered.
 
 ## Perguntas profissionais sobre astronomia
 
@@ -108,7 +102,7 @@ Given that my desire is to work with astronomical instrumentation, I believe tha
 ## Perguntas do ESO fellowship
 
 **What do you think are the biggest achievements in Astronomy/AIP in the last 5/10 years?**
-> .
+> The biggest achievement of AIP was the development of a Arrayed Waveguide Grating (AWG), a photonic integrated circuit (PIC) dispersive element manufactured by innoFSPEC, optimized for splitting the light into several overlapping spectral orders in the astronomical H-band. Laboratory tests showed that, using AWG, a resolving power of R∼30.000 can be achieved.
 
 **Where do you think new instrumentation/telescopes will take your research field? Or: which future instrument will impact your research the most? How?**
 > This question has been already answered.
