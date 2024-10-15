@@ -28,9 +28,8 @@ Throughout my academic journey, I developed the SPARC4 Camera Control System (S4
 > My most significant innovative accomplishment is the development of the S4CCS, a software system designed to control the scientific cameras of SPARC4. I have been working on this project for seven years, and much of my programming expertise has been acquired through this development process. The project has been a collaborative effort, involving multiple team members, with each contributing to different components. In the end, it is essential that all of our software components integrate seamlessly, ensuring proper communication and functionality across the entire system.
 
 **Always prepare some questions to ask the interviewers! For example, you may want to ask about** 
-> - How does the institution support postdocs in developing their academic careers (e.g., grant writing, teaching opportunities, mentorship)?
-> - Are there opportunities for professional development, such as attending conferences, workshops, or networking with other leading experts?
 > - Can you tell me more about the team dynamics and the overall work culture in the department or lab?
+> - Are there opportunities for professional development, such as attending conferences, workshops, or networking with other leading experts?
 > - How does the institution support postdocs in transitioning to permanent academic or research positions?
 
 
