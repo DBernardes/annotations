@@ -28,7 +28,7 @@
     - Any additional material should appear in the manuscript.
 
 ## latexdiff
-- I had some problem dealing with this lirabry. I needed to add the follwoing commando to the preamble of the main.tex file (before \begin{document}):
+- I had some problems dealing with this library. I needed to add the follwoing commando to the preamble of the main.tex file (before \begin{document}):
 
 
 ```latex
@@ -38,6 +38,6 @@
 \sloppy
 ```
 
-## Useful link
+## Useful links
 - [How to prepare your revised article](https://publishingsupport.iopscience.iop.org/questions/how-to-prepare-your-revised-article/)
 - [Preparing your source files for journal articles](https://publishingsupport.iopscience.iop.org/questions/preparing-your-source-files-for-journal-articles/)
