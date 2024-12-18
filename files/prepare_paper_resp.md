@@ -41,3 +41,5 @@
 ## Useful links
 - [How to prepare your revised article](https://publishingsupport.iopscience.iop.org/questions/how-to-prepare-your-revised-article/)
 - [Preparing your source files for journal articles](https://publishingsupport.iopscience.iop.org/questions/preparing-your-source-files-for-journal-articles/)
+- [Author rights and article sharing](https://publishingsupport.iopscience.iop.org/author-rights-policies/)
+- [PASP Author Rights](https://iopscience.iop.org/journal/1538-3873/page/PASP_author_rights)
