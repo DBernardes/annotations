@@ -78,7 +78,7 @@
 
 - O título da mensagem deverá ser: CADASTRO PCI/LNA (código da bolsa) - Nome do candidato. O nome do candidato poderá compreender o primeiro nome e último sobrenome para melhorar sua identificação.
 
-## [Apoio ao desenvolvimento do instrumento astronômico SPARC4](https://www.gov.br/inpe/pt-br/assuntos/anuncio-de-oportunidades/abertos/apoio-ao-desenvolvimento-do-instrumento-astronomico-sparc4)
+## :white_check_mark: [Apoio ao desenvolvimento do instrumento astronômico SPARC4](https://www.gov.br/inpe/pt-br/assuntos/anuncio-de-oportunidades/abertos/apoio-ao-desenvolvimento-do-instrumento-astronomico-sparc4)
 
 - Período: abr/2025 a dez/2025 (9 meses)
 - Salário: R$ 7.800,00
