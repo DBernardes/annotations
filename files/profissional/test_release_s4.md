@@ -102,9 +102,9 @@ Obs
 Instrumento testado totalmente no modo real.
 
 *Baseline utilizada*
-ACS v1.51.1 exe.
-S4GUI v.2024.08.08 exe.
-ICS 20240807 exe.
+- ACS v1.51.1 exe.
+- S4GUI v.2024.08.08 exe.
+- ICS 20240807 exe.
 
 *Procedimentos*
 - 1 aquisição para as abas OBJECT, DARK, ZERO, etc.
@@ -123,3 +123,27 @@ ICS 20240807 exe.
 
 *S4ACS v1.51.1*
 - Uso do projeto Communication Manager
+
+  ## 20250411
+
+*Teste de release*
+
+sparc4 no modo real.
+
+*Baseline*
+- ACS v1.52.3 exe.
+- S4GUI v1.0.4 exe.
+- ICS 20250206 exe.
+
+*Configurações utilizadas para a aquisição de imagens*
+- Abas OBJECT, DARK, ZERO, etc.
+- Serie sincrona e assincrona (5 ciclos de 5 frames, fotometria).
+- L2 + polarizer.
+- L4 + depolarizer (problema 1).
+- Serie polarimetria (2 ciclos com 16 posicoes de L4).
+- 1 ciclo + 4 posições de L4 + STOP posição 3.
+- 1 ciclo + 4 posições de L4 + STOP posição 4 + nova série.
+
+*Problemas*
+1. S4GUI: State 302 - moving waveplate timeout. 
+
