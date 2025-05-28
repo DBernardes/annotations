@@ -35,7 +35,8 @@
 ## 🌠 Outros Objetos Celestes Interessantes
 
 * **Via Láctea**: A faixa da nossa galáxia será visível atravessando o céu, especialmente nas regiões próximas a Escorpião e Sagitário.
-* **Marte**: Aparece no céu do entardecer, movendo-se de Câncer para Leão, com brilho de magnitude 1,1.&#x20;
+* **Marte**: Aparece no céu do entardecer, movendo-se de Câncer para Leão, com brilho de magnitude 1,1.
+* **Sírius**: As estrela mais brilhante do céu. Junta da canis minor, seguem o caçador Orion.
 
 ---
 
