@@ -1,68 +1,15 @@
-# Palestra Zelo Zebra
+# [Introdução à astronomia e astrofísica](http://plutao.sid.inpe.br/ibi/8JMKD3MGP3W/4BLL6UB)
 
-## 1. **Cruzeiro do Sul (Crux)**
+# **Capítulo 1**
 
-* **Descrição**: Pequena, mas icônica, é facilmente reconhecível por sua forma de cruz. Podemos descobrir o polo sul celeste.
-* **Destaques**: Estrela Acrux (magnitude 0,9) e a Nebulosa do Saco de Carvão, caixinha de jóias.
-
-## 2. **Centauro (Centaurus)**
-
-* **Descrição**: Uma das maiores constelações do céu austral.
-* **Destaques**: Abriga Alpha Centauri, o sistema estelar mais próximo da Terra
-
-## 3. **Carina (A Quilha)**
-
-* **Descrição**: Parte da antiga constelação de Argo Navis.
-* **Destaques**: Estrela Canopus, a segunda mais brilhante do céu noturno. Utilizana no hemisfério norte para indicar a direção do Polo Sul. Nebulosa de Eta Carina, uma região de formação estelar.
-
-## 4. **Escorpião (Scorpius)**
-
-* **Descrição**: Fácil de identificar pelo formato de "S" ou de gancho.
-* **Destaques**: Estrela Antares, uma supergigante vermelha. Diametralmente oposto a Órion.
-
-## 5. **Virgem (Virgo)**
-
-* **Descrição**: A maior constelação do zodíaco. À partir daqui, é hemisfério norte.
-* **Destaques**: Estrela Spica (magnitude 1,0).
-
-## 5. **Leo (Lion)**
-
-* **Descrição**: Foi morto pelo Hércules, em um de seus 12 trabalhos.
-* **Destaques**: Estrela Regulus.
-
----
-
-## 🌠 Outros Objetos Celestes Interessantes
-
-* **Via Láctea**: A faixa da nossa galáxia será visível atravessando o céu, especialmente nas regiões próximas a Escorpião e Sagitário.
-* **Marte**: Aparece no céu do entardecer, movendo-se de Câncer para Leão, com brilho de magnitude 1,1.
-* **Sírius**: As estrela mais brilhante do céu. Junta da canis minor, seguem o caçador Orion.
-
----
-
-### 🗺️ Gerando um Mapa Celeste Personalizado
-
-1. **Stellarium Web**
-   O Stellarium é um planetário online que permite visualizar o céu noturno em qualquer data e local.
-
-   * Acesse: [stellarium-web.org](https://stellarium-web.org/)
-   * Clique no ícone de localização (📍) e insira "Itajubá, Brasil".
-   * Clique no ícone de relógio (⏰) e ajuste a data para "31 de maio de 2025" e o horário para "19:00".
-   * Você poderá explorar o céu noturno conforme será visto em Itajubá nesse dia e horário.([cartascelestes.com][1])
-
-2. **Cartas Celestes**
-   Este site oferece informações para observadores do céu, incluindo mapas celestes.
-
-   * Acesse: [cartascelestes.com](https://cartascelestes.com/)
-   * Explore as opções disponíveis para gerar mapas celestes personalizados.
-
-3. **Sky & Telescope – Interactive Sky Chart**
-   Outra ferramenta útil para gerar mapas do céu noturno.
-
-   * Acesse: [Sky & Telescope Interactive Sky Chart](https://skyandtelescope.org/interactive-sky-chart/)
-   * Insira "Itajubá, Brasil" como local.
-   * Ajuste a data para "31 de maio de 2025" e o horário para "19:00".
-   * Você poderá visualizar e imprimir o mapa celeste correspondente.
-
-
-[1]: https://cartascelestes.com/?utm_source=chatgpt.com "Cartas Celestes"
+- Imagine-se agora emum passado muito remoto, mais precisamente na Pré-história
+- Claro e escuro, passagem de tempo mais óbiva
+- Necessidade de medirca passagem do tempo: época para plantar, épocas de cheia e vazante do rio, temporadas de chuva e seca.
+- Uso dos astros para a localização durante práticas de pesca em alto-mar.
+- Surge o ano lunar
+- Impressão de que a Terra está parada e as estrelas giram.
+- O sol nasce no leste e so põe no oeste. Esta posição varia ao longo do ano.
+- Descobrimento de que a Terra é redonda em 194 a.C.
+- Caminho que o sol faz sobre as constelações ao longo do ano. Surgem as constelações do zodíaco associadas à lendas do povo da Mesopotâmia.
+- Deslocamento do sol com relação aos signos.
+- Constelação do Serpentário (13ª)
