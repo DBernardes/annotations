@@ -1,31 +1,35 @@
 # Palestra Zelo Zebra
 
-## 1. **Cruzeiro do Sul (Crux)**
+## **Cruzeiro do Sul (Crux)**
 
 * **Descrição**: Pequena, mas icônica, é facilmente reconhecível por sua forma de cruz. Podemos descobrir o polo sul celeste.
 * **Destaques**: Estrela Acrux (magnitude 0,9) e a Nebulosa do Saco de Carvão, caixinha de jóias.
 
-## 2. **Centauro (Centaurus)**
+## **Centauro (Centaurus)**
 
 * **Descrição**: Uma das maiores constelações do céu austral.
 * **Destaques**: Abriga Alpha Centauri, o sistema estelar mais próximo da Terra
 
-## 3. **Carina (A Quilha)**
-
-* **Descrição**: Parte da antiga constelação de Argo Navis.
-* **Destaques**: Estrela Canopus, a segunda mais brilhante do céu noturno. Utilizana no hemisfério norte para indicar a direção do Polo Sul. Nebulosa de Eta Carina, uma região de formação estelar.
-
-## 4. **Escorpião (Scorpius)**
+## **Escorpião (Scorpius)**
 
 * **Descrição**: Fácil de identificar pelo formato de "S" ou de gancho.
 * **Destaques**: Estrela Antares, uma supergigante vermelha. Diametralmente oposto a Órion.
 
-## 5. **Virgem (Virgo)**
+## **Carina (A Quilha)**
+
+* **Descrição**: Parte da antiga constelação de Argo Navis.
+* **Destaques**: Estrela Canopus, a segunda mais brilhante do céu noturno. Utilizana no hemisfério norte para indicar a direção do Polo Sul. Nebulosa de Eta Carina, uma região de formação estelar.
+
+## **Canis Majoris**
+
+* **Descrição**: possui a estrela Sírius, as mais brilhante do céu. Junta da canis minor, seguem o caçador Orion.
+
+## **Virgem (Virgo)**
 
 * **Descrição**: A maior constelação do zodíaco. À partir daqui, é hemisfério norte.
 * **Destaques**: Estrela Spica (magnitude 1,0).
 
-## 5. **Leo (Lion)**
+## **Leo (Lion)**
 
 * **Descrição**: Foi morto pelo Hércules, em um de seus 12 trabalhos.
 * **Destaques**: Estrela Regulus.
@@ -36,7 +40,7 @@
 
 * **Via Láctea**: A faixa da nossa galáxia será visível atravessando o céu, especialmente nas regiões próximas a Escorpião e Sagitário.
 * **Marte**: Aparece no céu do entardecer, movendo-se de Câncer para Leão, com brilho de magnitude 1,1.
-* **Sírius**: As estrela mais brilhante do céu. Junta da canis minor, seguem o caçador Orion.
+
 
 ---
 
