@@ -147,3 +147,28 @@ sparc4 no modo real.
 *Problemas*
 1. S4GUI: State 302 - moving waveplate timeout. 
 
+
+## 20250612
+
+**Teste de release**
+
+SPARC4 no modo real.
+
+**Baseline**
+- ACS v1.53.0 exe.
+- S4GUI v1.0.5 exe.
+- ICS v1.0.5 exe.
+
+**Configurações utilizadas para a aquisição de imagens**
+- Abas OBJECT, DARK, ZERO, etc.
+- Serie sincrona e assincrona (5 ciclos de 5 frames, fotometria).
+- L2 + polarizer.
+- L4 + depolarizer.
+- Serie polarimetria (1 ciclo com 16 posicoes de L4).
+- 1 ciclo + 4 posições de L4 + STOP 
+- 1 ciclo + 4 posições de L4 + ABORT
+- Testes passando
+
+**Problemas**
+Sem problemas
+

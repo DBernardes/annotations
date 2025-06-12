@@ -4,7 +4,7 @@
 
 - Imagine-se agora num passado muito remoto, mais precisamente na Pré-história
 - Claro e escuro, passagem de tempo mais óbiva
-- Necessidade de medirc a passagem do tempo: época para plantar, épocas de cheia e vazante do rio, temporadas de chuva e seca.
+- Necessidade de medir a passagem do tempo: época para plantar, épocas de cheia e vazante do rio, temporadas de chuva e seca.
 - Surge o ano lunar
 - Uso dos astros para a localização durante práticas de pesca em alto-mar.
 - O sol nasce no leste e so põe no oeste. Esta posição varia ao longo do ano.
